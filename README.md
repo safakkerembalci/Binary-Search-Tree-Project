@@ -6,7 +6,7 @@
 
 *Example: root is x. y is found to the right of root. It has a z to its left, etc.*
 
-**Reply:**
+**Answer:**
 
 7 is selected as root.
 
