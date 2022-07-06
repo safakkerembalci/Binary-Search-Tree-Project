@@ -1,14 +1,14 @@
 # **Binary-Search-Tree-Project**
 
-## **Proje 3**
+## **Project 3**
 
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Write the Binary-Search-Tree stages of the sequence.
 
-*Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.*
+*Example: root is x. y is found to the right of root. It has a z to its left, etc.*
 
-**Cevap:**
+**Reply:**
 
-Root olarak 7 seçilir.
+7 is selected as root.
 
  
                             7
